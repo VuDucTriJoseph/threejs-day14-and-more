@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly floating island
+* source:	https://sketchfab.com/3d-models/low-poly-floating-island-cbdc1f89cb3f41a397e8d9c10c342544
+* author:	czarnyxhd (https://sketchfab.com/czarnyxhd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly floating island" (https://sketchfab.com/3d-models/low-poly-floating-island-cbdc1f89cb3f41a397e8d9c10c342544) by czarnyxhd (https://sketchfab.com/czarnyxhd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
